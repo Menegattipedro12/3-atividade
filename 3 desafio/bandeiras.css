@@ -1,0 +1,68 @@
+body {
+    height:100vw;
+    width: 100vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: rgb(110, 108, 108);
+}
+
+.bandeira_vertical div{
+     width: 12vw;
+    height: 4vh;
+}
+
+.bandeira_horizontal {
+    display: flex;
+    flex-direction: row;
+    
+
+}
+
+.bandeira_horizontal div{
+    width: 5vw;
+    height: 11vh;
+}
+
+#bandeiras_1{
+   width: 20vh;
+   height: 40vh;
+   justify-content: space-evenly;
+   display: flex;
+   flex-direction: column;
+    
+    background-color: blueviolet;
+}
+#bandeiras_2{
+   width: 20vh;
+   height: 40vh;
+   justify-content: space-evenly;
+   display: flex;
+   flex-direction: column;
+    
+    background-color: rgb(19, 3, 34);
+}
+
+.cor_branca {
+    background-color: rgb(255, 255, 255);
+}
+
+.cor_azul {
+    background-color: rgb(4, 58, 102);
+}
+
+.cor_vermelha {
+    background-color: rgb(228, 0, 0);
+}
+
+.cor_amarela{
+    background-color: rgb(240, 205, 3);
+}
+
+.cor_preta{
+    background-color: black;
+}
+
+.cor_verde{
+    background-color: rgb(3, 105, 3);
+}

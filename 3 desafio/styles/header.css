@@ -1,0 +1,18 @@
+op
+.botoes
+
+.botoes{
+    color: rgb(255, 255, 255);
+    border-color: black;
+    font-family: 'Times New Roman', Times, serif;
+     background-color: rgb(25,170,25);
+    padding: 5px;
+}
+
+
+.opcoes{
+ display: inline-block;
+  margin-right: 10px;
+  padding: 10px;
+
+}
