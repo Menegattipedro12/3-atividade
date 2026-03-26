@@ -20,25 +20,26 @@ body {
 }
 
 .bandeira_horizontal div{
-    width: 5vw;
-    height: 11vh;
+    width: 4vw;
+    height: 12vh;
 }
 
 #bandeiras_1{
-   width: 20vh;
+   width: 30vh;
    height: 40vh;
    justify-content: space-evenly;
    display: flex;
    flex-direction: column;
-    
-    background-color: blueviolet;
+   align-items: center;
+   background-color: blueviolet;
 }
 #bandeiras_2{
-   width: 20vh;
+   width: 40vh;
    height: 40vh;
    justify-content: space-evenly;
    display: flex;
    flex-direction: column;
+   align-items: center;
     
     background-color: rgb(19, 3, 34);
 }
